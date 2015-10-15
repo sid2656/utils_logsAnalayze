@@ -1,0 +1,12 @@
+logstash + elasticsearch + kibana
+
+1.logstash
+动态地统一不同来源的数据和归一化数据到您选择的目的地
+2.elasticsearch
+搜索和分词解析框架，基于lucene
+3.kibana
+开源的分析和可视化平台
+
+
+
+
